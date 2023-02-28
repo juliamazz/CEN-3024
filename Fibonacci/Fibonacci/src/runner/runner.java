@@ -9,6 +9,9 @@ public class runner {
 		Scanner userInput = new Scanner(System.in);
 		int selection = -1;
 		
+		System.out.println("Welcome to FibMe: The Fibonacci Sequence learning tool!"
+							+ "\nHave fun and experiment with the different methods of generating Fibbonacci Sequences.\n");
+		
 		while (selection != 3) {
 			System.out.println("Select Iterative [1] or Recursive [2] by typing the desired number. Type [3] to exit.");
 			selection = userInput.nextInt();
@@ -52,6 +55,7 @@ public class runner {
 			}
 			else if (selection == 3)
 			{
+				System.out.println("Goodbye!");
 				break;
 			}
 			
