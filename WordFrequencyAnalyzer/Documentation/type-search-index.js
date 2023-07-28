@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example.WordFrequencyAnalyzer","l":"App"},{"p":"com.example.WordFrequencyAnalyzer","l":"Controller"},{"p":"com.example.WordFrequencyAnalyzer","l":"Word"},{"p":"com.example.WordFrequencyAnalyzer","l":"WordCounter"}];updateSearchResults();
