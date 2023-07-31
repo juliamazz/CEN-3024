@@ -1,0 +1,7 @@
+WordFrequencyAnalyzer\Word.class
+module-info.class
+WordFrequencyAnalyzer\App.class
+WordFrequencyAnalyzer\Controller.class
+WordFrequencyAnalyzer\WordCounter.class
+WordFrequencyAnalyzer\WordDatabase.class
+WordFrequencyAnalyzer\Launcher.class

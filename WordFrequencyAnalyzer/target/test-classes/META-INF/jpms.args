@@ -1,0 +1,4 @@
+--patch-module
+wordfx=_
+--add-reads
+wordfx=ALL-UNNAMED
