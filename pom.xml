@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>JavaFx</groupId>
+    <artifactId>parent-module</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>WordFrequencyAnalyzer</module>
+        <module>PrimeNumberClient</module>
+        <module>PrimeNumberServer</module>
+    </modules>
+
+    <!-- Common configurations and dependencies for all modules -->
+    <properties>
+        <java.version>1.8</java.version>
+        <!-- Add any other common properties here -->
+    </properties>
+
+    <dependencies>
+        <!-- Add any common dependencies used by all modules here -->
+    </dependencies>
+</project>
